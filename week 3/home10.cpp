@@ -1,0 +1,51 @@
+#include <iostream>
+using namespace std;
+main()
+{ 
+int number_1;
+cout<<"Enter number 1: ";
+cin>>number_1;
+int number_2;
+cout<<"Enter number 2: ";
+cin>>number_2;
+int number_3;
+cout<<"Enter number 3: ";
+cin>>number_3;
+int number_4;
+cout<<"Enter number 4: ";
+cin>>number_4;
+int number_5;
+cout<<"Enter number 5: ";
+cin>>number_5;
+int number_6;
+cout<<"Enter number 6: ";
+cin>>number_6;
+int number_7;
+cout<<"Enter number 7: ";
+cin>>number_7;
+int number_8;
+cout<<"Enter number 8: ";
+cin>>number_8;
+int number_9;
+cout<<"Enter number 9: ";
+cin>>number_9;
+int number_10;
+cout<<"Enter number 10: ";
+cin>>number_10;
+int number_11;
+cout<<"Enter number 11: ";
+cin>>number_11;
+int number_12;
+cout<<"Enter number 12: ";
+cin>>number_12;
+int number_13;
+cout<<"Enter number 13: ";
+cin>>number_13;
+int number_14;
+cout<<"Enter number 14: ";
+cin>>number_14;
+int number_15;
+cout<<"Enter number 15: ";
+cin>>number_15;
+int final_result = (number_1+number_2+number_3+number_4+number_5) + (number_6*number_7*number_8*number_9*number_10) - (number_11-number_12-number_13-number_14-number_15);
+cout<<"the final result is ==" <<final_result;}      
